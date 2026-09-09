@@ -1,4 +1,4 @@
-class gfg {
+data is addeed in app.jaava from flm class gfg {
 
     // Function to print all the
     // prime numbers till N
